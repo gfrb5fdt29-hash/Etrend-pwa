@@ -1,4 +1,4 @@
-const CACHE_NAME = "etrend-cache-20260623000101";
+const CACHE_NAME = "etrend-cache-20260623004500";
 const PRECACHE_URLS = [
   "./",
   "./index.html",
